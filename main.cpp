@@ -4,7 +4,7 @@
 #include <cmath>                // 数学函数（hypot 计算距离）
 #include <string>               // 字符串
 #include <memory>               // 智能指针 unique_ptr
-aaaaaaaaaaaaaaaaaaaaaaaa
+
 // 工具类型枚举 
 enum class ToolType {
     Circle,         // 两点画圆（直径方式）
